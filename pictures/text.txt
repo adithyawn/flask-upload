@@ -1,0 +1,7 @@
+Connection URI Format
+mysql://username:databasepassword@databasehost/databasename
+
+mysql://sql12371462:IkvI9ZUQyA@sql12.freemysqlhosting.net/sql12371462
+
+
+mysql://stratekc_toppgunexpert:KX73wRGdQ8hzLZT@toppgunexpert.stratek.com/stratekc_toppgunexpert
